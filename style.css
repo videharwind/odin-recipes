@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    color:white;
+    font-size: large;
+    font-weight: bold;
+}
+li{
+    width: 168.967px 110px;
+    display: inline-block;
+    margin:50px;
+    padding:80px 30px 0px 30px;
+    border:2px solid black;
+    background-size: cover;
+}
+li :hover{
+    color:blue;
+}
+#naan{
+    background-image: url("img/naan.webp");
+    }
+#friedchicken{
+    background-image: url("img/fried-chicken.webp");
+}
+#potatosoup{
+    background-image: url("img/potato-soup.jpg");
+}
